@@ -1,4 +1,6 @@
-package ru.vsu.cs.samsonova.geometry;
+package ru.vsu.cs.samsonova;
+
+import ru.vsu.cs.samsonova.geometry.*;
 
 public class TestCase {
     private final double x;
